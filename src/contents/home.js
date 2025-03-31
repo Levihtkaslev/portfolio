@@ -1,5 +1,6 @@
 import React from 'react';
 import { IoIosSend } from "react-icons/io";
+import image from '../asset/Passport size.jpg'
 
 const Home = () => {
 
@@ -29,8 +30,9 @@ const Home = () => {
                         </button>
                     </a> 
                 </div>
-                <div className='h-96 md:w-1/6 w-full bg-slate-900 rounded shadow-2xl '>
-
+                <div className=' h-96 md:w-1/6  w-full bg-slate-900 rounded-3xl shadow-2xl '>
+                    <img src={image} className="h-full object-fill object-center rounded-3xl w-full transition-all duration-300 group-hover:blur-lg"
+                    alt="otimage"/>
                 </div>
         </div> 
        </div>
