@@ -39,7 +39,7 @@ const About = () => {
                 I am fresher with 6-7 month experience and created softwares for our need and successfully Going.
                 </div>
                 <a 
-                    href="https://drive.google.com/file/d/1LJaJ4MKSAU7bs60TWTOL5Zun9eFXe6O9/view?usp=sharing" 
+                    href="https://drive.google.com/file/d/1KgJAc2--zQVlX_3-TsVsmc5qApT_to-I/view?usp=sharing" 
                     className="flex justify-center w-full"
                     >
                     <button className="mt-10 flex items-center gap-4 px-6 py-4 bg-black text-2xl text-white rounded-2xl shadow-lg 
