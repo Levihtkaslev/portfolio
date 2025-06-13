@@ -62,7 +62,8 @@ const Projectview = () => {
                     
                     className="absolute bottom-5 left-1/2 transform -translate-x-1/2 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition"
                 ><a
-                href="https://ecomfronendtest3.onrender.com"target="_blank" rel="noopener noreferrer"
+               /*  href="https://ecomfronendtest3.onrender.com"target="_blank" rel="noopener noreferrer" */
+                href="http://http://13.48.57.54:3000"target="_blank" rel="noopener noreferrer"
             >
                     Open Web Page</a>
                 </button>
@@ -103,7 +104,8 @@ const Projectview = () => {
             </div>
 
             <div className="rounded-2xl overflow-hidden relative group md:h-[900px] md:w-1/4 ">
-            <a href='https://ecomfronendtest3.onrender.com' >
+            {/* <a href='https://ecomfronendtest3.onrender.com' > */}
+            <a href='http://13.48.57.54:3000' >
         
                 <img
                     src={qualityapp}
@@ -117,7 +119,8 @@ const Projectview = () => {
             </div>
           
             <div className="rounded-2xl overflow-hidden relative group md:h-[900px] md:w-1/4 ">
-            <a href='https://qualitytrackertest2.onrender.com/' >
+           {/*  <a href='https://qualitytrackertest2.onrender.com/' > */}
+           <a href='http://16.171.154.138:3000/' >
                 <img
                     src={tw}
                     className=" h-full  object-fill object-center transition-all duration-300 group-hover:blur-lg"
@@ -131,9 +134,10 @@ const Projectview = () => {
                 <button
                     
                     className="absolute bottom-5 left-1/2 transform -translate-x-1/2 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition"
-                ><a
+                >{/* <a
                 href="https://qualitytrackertest2.onrender.com"target="_blank" rel="noopener noreferrer"
-            >
+            > */}
+            <a href='http://16.171.154.138:3000/' >
                     Open Web Page</a>
                 </button>
             </div>
