@@ -120,7 +120,7 @@ const Projectview = () => {
           
             <div className="rounded-2xl overflow-hidden relative group md:h-[900px] md:w-1/4 ">
            {/*  <a href='https://qualitytrackertest2.onrender.com/' > */}
-           <a href='http://16.171.154.138:3000/' >
+           <a href='http://13.60.59.193:3000/' >
                 <img
                     src={tw}
                     className=" h-full  object-fill object-center transition-all duration-300 group-hover:blur-lg"
@@ -137,7 +137,7 @@ const Projectview = () => {
                 >{/* <a
                 href="https://qualitytrackertest2.onrender.com"target="_blank" rel="noopener noreferrer"
             > */}
-            <a href='http://16.171.154.138:3000/' >
+            <a href='http://13.60.59.193:3000/' >
                     Open Web Page</a>
                 </button>
             </div>
