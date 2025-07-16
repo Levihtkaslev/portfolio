@@ -91,7 +91,7 @@ const Projectview = () => {
             </div>
             
             <div className="rounded-2xl overflow-hidden relative group md:h-[900px] md:w-1/4 ">
-            <a href='https://github.com/Levihtkaslev/flutter-quality/releases/download/v1.0.0/app-release.apk'onClick={showToast}>
+            <a href='https://github.com/Levihtkaslev/quality-Tracker-App/releases/download/v1.0.0/app-release.apk'onClick={showToast}>
                 <img
                     src={fo}
                     className=" h-full  object-fill object-center transition-all duration-300 group-hover:blur-lg"

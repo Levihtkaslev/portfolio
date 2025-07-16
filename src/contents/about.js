@@ -14,7 +14,7 @@ const About = () => {
                 <div className='text-2xl mb-10'>My Intoduction</div>
                 <div className='flex gap-8 flex-col md:flex-row '>
                 <div className="p-28 shadow-xl rounded-3xl md:flex md:flex-col flex-col flex items-center justify-center text-center  
-  hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
+                        hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
 
                     <FaGlobe size={100} className="transition-all  duration-300 group-hover:text-orange-400" />
                     <div className="text-2xl mt-8 transition-all duration-300 group-hover:text-orange-400">
@@ -22,12 +22,12 @@ const About = () => {
                     </div>
                 </div>
                 <div className="p-28 shadow-xl rounded-3xl md:flex md:flex-col flex-col flex items-center justify-center text-center  
-  hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
+                        hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
                         < FaFlutter size={100} className="transition-all duration-300 group-hover:text-orange-400" />
                         <div className='text-2xl mt-8  transition-all duration-300 group-hover:text-orange-400'>3+ Mobile Apps</div>
                     </div>
                     <div className="p-28 shadow-xl rounded-3xl md:flex md:flex-col flex-col flex items-center justify-center text-center  
-  hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
+                        hover:shadow-orange-400 transition-all ease-in-out duration-300 hover:shadow-xl group">
                         <FaHandshakeSimple size={100} className="transition-all text-center duration-300 group-hover:text-orange-400"  />
                         <div className='text-2xl  transition-all duration-300 group-hover:text-orange-400'>5-6 Month exp</div>
                     </div>
